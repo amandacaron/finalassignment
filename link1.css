@@ -1,0 +1,68 @@
+h1{
+  text-align: center;
+  color:#EDDA74;
+  font-family: sans-serif;
+  font-weight: 100;
+}
+
+body{
+  font-family: sans-serif;
+  font-weight: 100;
+  background-color: #2B1B17;
+  color:white;
+  text-align: center;
+}
+
+
+.sidebar-image-gallery img {
+border-radius: 50%;
+float: right;
+}
+
+.sidebar-image-gallery img:hover {
+  opacity: .7;
+  -webkit-transform: rotate(-10deg);
+  -moz-transform: rotate(-10deg);
+  -ms-transform: rotate(-10deg);
+  transform: rotate(-10deg);
+}
+
+.headerContent{
+  width:1000px;
+  height:auto;
+  margin: auto;
+  background-color: #2B1B17;
+}
+
+.nav{
+  margin-top: 20px;
+  height: 40px;
+  background: #D1D0CE;
+}
+
+.nav ul {
+  margin:0;
+  padding:0;
+}
+
+.nav ul li {
+  list-style: none;
+}
+
+.nav ul li a{
+  text-decoration: none;
+  float:left;
+  position: relative;
+display:block;
+padding:10px 140px;
+color: black;
+}
+
+.nav ul li a:hover{
+  color:#FFA62F;
+}
+
+
+
+///www.codeitpretty.com/2013/07/make-simple-html-image-gallery-for-your.html////
+////https://www.youtube.com/watch?v=_ovlvYH782c////

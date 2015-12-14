@@ -1,0 +1,52 @@
+h1{
+  text-align: center;
+  color:red;
+  font-family: sans-serif;
+  font-weight: 100;
+}
+
+body{
+  font-family: sans-serif;
+  font-weight: 100;
+  background-color: #FEFCFF;
+
+}
+p{
+  text-align: center;
+  color: #2B1B17;
+}
+
+.headerContent{
+  width:1000px;
+  height:auto;
+  margin: auto;
+  background-color: #FEFCFF;
+}
+
+.nav{
+  margin-top: 20px;
+  height: 40px;
+  background: #D1D0CE;
+}
+
+.nav ul {
+  margin:0;
+  padding:0;
+}
+
+.nav ul li {
+  list-style: none;
+}
+
+.nav ul li a{
+  text-decoration: none;
+  float:left;
+  position: relative;
+display:block;
+padding:10px 140px;
+color: black;
+}
+
+.nav ul li a:hover{
+  color:blue;
+}
